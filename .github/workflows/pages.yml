@@ -16,7 +16,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1  # Updated version
         with:
-          ruby-version: 3.1
+          ruby-version: 3.2
           bundler-cache: true  # Automatically installs Bundler and caches gems
 
       - name: Debug Ruby environment
