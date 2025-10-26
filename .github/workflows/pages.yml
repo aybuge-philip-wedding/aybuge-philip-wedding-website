@@ -14,10 +14,16 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@v1.1  # Updated version
         with:
           ruby-version: 3.1
-          bundler-cache: true # ✅ automatically installs Bundler & caches gems
+          bundler-cache: true  # Automatically installs Bundler and caches gems
+
+      - name: Debug Ruby environment
+        run: |
+          ruby -v
+          gem env
+          gem list
 
       - name: Install dependencies
         run: bundle install
