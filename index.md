@@ -23,8 +23,3 @@ Can't wait to see you there!
 <p style='text-align: center'>
 Aybuge & Philip
 </p>
-
-
-<p style='text-align: right'>
-{% include button.html text="<b>Venue Info »</b>" link="/venue" %}
-</p>
