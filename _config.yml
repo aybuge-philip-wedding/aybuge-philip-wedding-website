@@ -23,8 +23,8 @@ exclude:
 - netlify.toml
 
 # Site settings
-url: 'https://aybuge-philip-wedding.github.io'
-baseurl: ''
+url: "https://aybuge-philip-wedding.github.io"
+baseurl: "/aybuge-philip-wedding-website"
 title: "Aybuge & Philip's Wedding"
 image: "../assets/images/sweden-aperol.jpg"
 description: "All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!"
