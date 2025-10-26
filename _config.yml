@@ -9,8 +9,8 @@ exclude:
 - Gemfile.lock
 - netlify.toml
 
-# Set plugins
 plugins:
+- jekyll-remote-theme
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
@@ -21,7 +21,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - fastimage
-- jekyll-remote-theme
+
 
 
 # Site settings
