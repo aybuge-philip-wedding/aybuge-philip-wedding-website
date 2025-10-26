@@ -1,5 +1,6 @@
 # Set theme
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
+
 
 # File excludes
 exclude:
@@ -20,6 +21,8 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - fastimage
+- jekyll-remote-theme
+
 
 # Site settings
 url: 'https://www.archieandanna.com'
