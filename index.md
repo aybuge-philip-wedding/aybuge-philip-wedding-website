@@ -1,6 +1,6 @@
 ---
 title: "Aybuge & Philip's Wedding"
-description: "Friday 20 March 2026 we will have the Hena Night 💍 Saturday 21st March 2026 🇹🇷 All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!"
+description: "All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!"
 feature_image: "/aybuge-philip-wedding-website/assets/images/Wearegettingmarried.png"
 image: "/aybuge-philip-wedding-website/assets/images/Wearegettingmarried.png"
 layout: page
