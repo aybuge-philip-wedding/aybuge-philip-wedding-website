@@ -1,7 +1,6 @@
 ---
 #title: Aybuge & Philip's Wedding 
 description: Friday 20 March 2026 we will have the Hena Night \n 💍 Saturday 21st Match 2026 🇹🇷 All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!
-image: "../assets/images/sweden-aperol.jpg"
 feature_image: "../assets/images/Wearegettingmarried.png"
 # feature_text: |
 #   <h1 style="color: #eeeee4"> Aybuge & Philip </h1>
