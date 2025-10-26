@@ -22,9 +22,9 @@ plugins:
 - fastimage
 
 # Site settings
-url: 'https://aybuge-philip-wedding.github.io'
+url: 'https://www.archieandanna.com'
 baseurl: ''
-title: "Aybuge & Philip's Wedding"
+title: "Archie & Anna’s Wedding"
 image: "../assets/images/sweden-aperol.jpg"
 description: "All the info you need about our wedding location and venue, as well as travel & accommodation options. We'll post photos up here after too!"
 permalink: pretty
