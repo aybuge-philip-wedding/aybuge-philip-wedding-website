@@ -2,13 +2,6 @@
 remote_theme: daviddarnes/alembic
 
 
-# File excludes
-exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
-- netlify.toml
-
 plugins:
 - jekyll-remote-theme
 - jekyll-sitemap
@@ -22,7 +15,12 @@ plugins:
 - jemoji
 - fastimage
 
-
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- netlify.toml
 
 # Site settings
 url: 'https://aybuge-philip-wedding.github.io'
