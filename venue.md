@@ -6,7 +6,7 @@ image: "../assets/images/sweden-aperol.jpg"
 
 |[![Niğde in Turkey](../assets/images/nigde_bw.png){:class="img-responsive"}](../assets/images/nigde_bw.png)|  
 |:--:|
-| *Nigde in Turkey* |
+| *Niğde in Turkey* |
 
 <p style='text-align: center'> <b>Niğde</b> is in the middle of Türkiye, close to Cappadoica for those who know, or to Ankara, the capital.</p>
 <p style='text-align: center'> The weather in March in this part of Turkey is not particularly warm, averaging 10-15°C during the day, and even colder overnight. </p>
