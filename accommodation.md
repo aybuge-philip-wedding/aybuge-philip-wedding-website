@@ -12,7 +12,3 @@ Niğde is a relatively small town, with many amenities accessible by foot. Here 
 
 Most places will charge around 70-80 EUR per night for a double room. Aybuge is happy to assist you with arranging stays at the Ramada or the Guesthouse. You can also book these hotels or others online/ via Booking.com. Please note that Airbnb is generally not an option in Niğde.
 
-
-<p style='text-align: right'>
-{% include button.html text="<b>Gifts »</b>" link="../gifts"%}
-</p>
