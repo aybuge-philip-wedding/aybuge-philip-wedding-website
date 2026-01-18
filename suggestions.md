@@ -3,7 +3,6 @@ title: Further Travel Suggestions
 feature_image: "../assets/images/cappadocia.png"
 ---
 
-
 ## Explore Cappadocia
 
 If you have some extra time during your visit to Niğde, we highly recommend exploring Cappadocia, one of Turkey's most stunning regions. It is approximately a 1.5-hour drive from Niğde and Cappadocia is renowned for its unique landscapes, historical sites, and cultural significance.

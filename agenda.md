@@ -24,4 +24,4 @@ This is the rough plan:
     - A relaxed walk + something sweet (details coming soon).
 - **Monday, 23rd March — Cappadocia tour (optional)** 
 
-   - We’re planning a day trip to Cappadocia from Niğde. More info: [**Explore Cappadocia**](https://aybuge-philip-wedding.github.io/aybuge-philip-wedding-website/suggestions/#plan-your-visit)
+   - We’re planning a day trip to Cappadocia from Niğde. More info: [**Explore Cappadocia**](https://aybuge-philip-wedding.github.io/aybuge-philip-wedding-website/suggestions/)
