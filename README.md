@@ -14,4 +14,4 @@ I hosted this using Netlify on GithHub Pages, but you could use a variety of dif
 2. Clone this repo
 3. Run `jekyll serve`, and navigate to localhost:4000 in your browser
 
-Credits: 
+Credits: @archiewood

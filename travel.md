@@ -22,5 +22,8 @@ Here are some airlines that you can book your flights through:
 - [**AJet**](https://ajet.com/en)
 - [**Pegasus Airlines**](https://www.flypgs.com/en)
 
+### Arrival & departure details ✈️🗓️
+To help us coordinate logistics (and make ridesharing easier), please add your arrival and departure information to [**this spreadsheet**](https://docs.google.com/spreadsheets/d/1GuQ8-t87XWeNng5UrZDEW5DIaIEsrHc05MaRDXCRh38/edit?usp=sharing).
+
 ### Ridesharing 🚗 🤝🏼
-As most people's final leg of transport will involve a car, we've set up a [ridesharing spreadsheet](https://docs.google.com/spreadsheets/d/17TE7LQ90_VMJVCvfEubwoyOBMFSpKxGdpt4Ksubk-zc/edit?usp=sharing), where you can see who is going where and when. If you are looking for, or offering shared transport, add your details / contact people directly.
+As most people's final leg of transport will involve a car, we've set up a [**ridesharing spreadsheet**](https://docs.google.com/spreadsheets/d/17TE7LQ90_VMJVCvfEubwoyOBMFSpKxGdpt4Ksubk-zc/edit?usp=sharing), where you can see who is going where and when. If you are looking for, or offering shared transport, add your details / contact people directly.
